@@ -166,7 +166,7 @@ print("\nLenght of X_test ",len(X_test))
 
 ## RESULT:
 
-### Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
+Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
 
 
 
